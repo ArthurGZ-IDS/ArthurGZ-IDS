@@ -1,8 +1,13 @@
 ## Hey! 👋
-I'm Arthur, a 5 years old web developer from México.
+I'm Arthur, a 7 years old web developer from México.
 
-- 🦔 Founder of [IntDexSys](https://intdexsys.com), Software Maker
-
+- 🦔 Founder of [IntDexSys](https://intdexsys.com)
+- 💻 Web developer
+- 👁️ Frontend Developer
+- 🚪 Backend Developer
+- 🖌️ UI/UX Designer
+- 🖥️ Server creator and mainteinance
+  
 + a lot more ;)
 
 ## Skills
@@ -14,8 +19,8 @@ I'm Arthur, a 5 years old web developer from México.
 + a lot more :D
 
 ## Contact
-- [Corp Email](mailto:ceo@intdexsys.com)
-- [Gmail](mailto:luis.arthur.25@gmail.com)
+- [Corp Email](mailto:contacto@intdexsys.com)
+- [Personal Email](mailto:luis.arthur.25@gmail.com)
 
 <!---
 ArthurGZ-IDS/ArthurGZ-IDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
